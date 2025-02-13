@@ -1,0 +1,10 @@
+title> Contact - Weblang Site
+text align-centre> Contact Information
+br>
+text> Email: example@example.com
+br>
+text> Phone: +1234567890
+br>
+link location-"index.wbl"> Home
+br>
+link location-"about.wbl"> About
