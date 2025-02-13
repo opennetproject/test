@@ -1,0 +1,8 @@
+title> About - Weblang Site
+text align-centre> About This Website
+br>
+text> This is a simple site made with Weblang.
+br>
+link location-"index.wbl"> Home
+br>
+link location-"contact.wbl"> Contact
