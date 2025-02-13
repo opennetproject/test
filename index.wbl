@@ -1,0 +1,8 @@
+title> Home - Weblang Site
+text align-centre> Welcome to My Weblang Website!
+br>
+text align-centre> Navigate below:
+br>
+link location-"about.wbl"> About
+br>
+link location-"contact.wbl"> Contact
